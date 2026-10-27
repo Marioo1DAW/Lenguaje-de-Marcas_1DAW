@@ -1,0 +1,24 @@
+/* No cambia nada ponerlo al principio o al final */
+* {
+    color: blue;
+    background-color: orange;
+    font-family: Arial
+}
+
+h1 {
+    color: blueviolet;
+    text-decoration: dashed;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: burlywood;
+    padding: 15px;
+
+}
+
+p {
+    text-indent: 30px;
+    color: black;
+}
