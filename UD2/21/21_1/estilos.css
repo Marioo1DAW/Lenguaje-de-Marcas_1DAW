@@ -1,0 +1,27 @@
+body {
+            background-color: blue;
+        }
+
+        div {
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            border: solid black;
+            border-radius: 10px;
+            padding: 15px;
+            alignment-baseline: central;
+            background-color: lightblue;
+        }
+
+        h1 {
+            color: blue;
+            text-decoration-line: underline;
+            text-align: center;
+        }
+
+        p {
+            text-indent: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        
