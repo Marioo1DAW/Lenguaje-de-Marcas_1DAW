@@ -1,1 +1,27 @@
-a
+.contenedor{
+width: 300px;
+position: relative;
+}
+.cuadro{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px ;
+    border: 2px solid black;
+}
+.c1{
+    color: blue;
+    left: 50px;
+}
+.c2{
+    color: coral;
+    position: relative;
+    top: -40px;
+    left: 50px;
+    z-index: 500;
+}
+.c3{
+    color: cadetblue;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
