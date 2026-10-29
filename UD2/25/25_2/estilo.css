@@ -1,1 +1,15 @@
-1
+nav{
+    position: fixed;
+    top: 0;
+    background-color:chocolate;
+    z-index: 500;
+}
+div{
+    position: fixed;
+    bottom: 20px; 
+    right: 20px;
+}
+.boton{
+    padding: 10px;
+    border-radius: 45%;
+}
